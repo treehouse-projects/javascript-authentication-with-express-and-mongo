@@ -1,0 +1,16 @@
+{
+  "name": "treehouse-express-auth",
+  "version": "1.0.0",
+  "description": "A project for learning how to add authentication to a web application.",
+  "author": "Treehouse Island, Inc.",
+  "private": true,
+  "scripts": {
+    "start": "node ./app"
+  },
+  "dependencies": {
+    "body-parser": "^1.13.3",
+    "express": "^4.13.4",
+    "pug": "^2.0.0-beta2"
+  },
+  "license": "MIT"
+}
