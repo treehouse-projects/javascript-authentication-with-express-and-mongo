@@ -8,6 +8,7 @@
     "start": "node ./app"
   },
   "dependencies": {
+    "bcrypt": "^0.8.7",
     "body-parser": "^1.13.3",
     "express": "^4.13.4",
     "mongoose": "^4.5.0",
